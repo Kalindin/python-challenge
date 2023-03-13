@@ -3,7 +3,7 @@ import csv
 
 
 PyBankcsv = os.path.join("PyBank","Resources","budget_data.csv")
-financial_analysis = os.path.join("PyBank", "Analysis")
+financial_analysis = os.path.join("PyBank", "Analysis", "financial_analysis")
 
 profit = []
 monthly_changes = []
